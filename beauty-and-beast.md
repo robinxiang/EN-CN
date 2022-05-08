@@ -1,6 +1,6 @@
-|ENG|CHN
-|--|--
-|beauty and the beast|美女与野兽
+|ENG|CHN|
+|--|--|
+|beauty and the beast|美女与野兽|
 |Chapter 1 The castle|第一章：城堡
 |A very long time ago, on a small farm , there lived a poor farmer with his three daughters|很久很久以前，在一个农场，住着一个贫穷的农夫和他的三个女儿
 |He never made much money as his farm was very small. When he was a young man , he lost the most valuable thing in his life|他的小农场让他从未富裕过。在他年轻的时候，他失去了生命中最重要的东西
