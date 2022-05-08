@@ -1,5 +1,5 @@
 | ENG| CHN|
-| ---| ---|
+|---|---|
 | beauty and the beast| 美女与野兽|
 | Chapter 1 The castle| 第一章：城堡|
 | A very long time ago, on a small farm , there lived a poor farmer with his three daughters| 很久很久以前，在一个农场，住着一个贫穷的农夫和他的三个女儿|
