@@ -3,3 +3,4 @@
 ## [《London》（《伦敦》）](https://robinxiang.github.io/EN-CN/20220508-london)
 ## [《Well》（《井》）](https://robinxiang.github.io/EN-CN/20220508-well)
 ## [《The Newspaper Chase》(《报纸追踪》)](https://robinxiang.github.io/EN-CN/20220509_the_newspaper_chase)
+## [《Blue fins》(《蓝鳍》)](https://robinxiang.github.io/EN-CN/20220510_blue_fins)
