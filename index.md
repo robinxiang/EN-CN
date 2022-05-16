@@ -5,3 +5,4 @@
 ## [《The Newspaper Chase》(《报纸追踪》)](https://robinxiang.github.io/EN-CN/20220509_the_newspaper_chase)
 ## [《Blue fins》(《蓝鳍》)](https://robinxiang.github.io/EN-CN/20220510_blue_fins)
 ## [《Love Or Money》(《爱还是金钱》)](https://robinxiang.github.io/EN-CN/20220514_love_or_money)
+## [《The Umbrella by Clare Harris》(《卡拉哈里斯的雨伞》)](https://robinxiang.github.io/EN-CN/20220516_Umbrella_by_Clare_Harris)
